@@ -19,4 +19,4 @@ This is only for education purpose only. If you are using it please make changes
         dataset.append(newlst)
 
 running the program :
-python <name of the program> 
+python < name of the program> 
